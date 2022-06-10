@@ -1,0 +1,1 @@
+An application that manages hypothetical rental film system. Before the app itself was developed, an appropriate database for storing various data about films had been created. 
